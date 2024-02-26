@@ -25,4 +25,4 @@ Each extension can be ran individually:
 
 To build and bundle your App, run this command in the **root folder**: `npm run build && npm run bundle`.
 
-This generates a `com.showpad.app.testing.showpad` file you can upload to the Showpad platform 🚀
+This generates a Showpad package you can upload to the Showpad platform 🚀
