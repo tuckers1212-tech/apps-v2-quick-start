@@ -1,4 +1,4 @@
-# Testing App
+# Quickstart App
 
 This App can be used as a template to develop Showpad Apps as described in this tutorial:
 [5min Quick Start App](https://docs.api.showpad.com/docs/appsv2/tutorials/5min-quick-start-app)
